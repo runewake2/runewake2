@@ -2,6 +2,11 @@
 
 Lets make something awesome together!
 
+* On Mastodon: <a href="https://hackyderm.io/@runewake2" rel="nofollow">https://hackyderm.io/@runewake2</a>
+* [YouTube channel](https://www.youtube.com/worldofzerodevelopment)
+* [Twitch streams](https://twitch.tv/worldofzerodev)
+* [The World of Zero Website](http://worldofzero.com)
+
 #### My Projects
 
 * World of Zero - A [YouTube channel](https://www.youtube.com/worldofzerodevelopment), [Live Steam](https://twitch.tv/worldofzerodev) and [blog](http://worldofzero.com) about software development. A project to help showcase the experience of building a variety of software projects from cloud applications to game development.
