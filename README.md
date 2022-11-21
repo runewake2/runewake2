@@ -2,7 +2,7 @@
 
 Lets make something awesome together!
 
-* On Mastodon: <a href="https://hackyderm.io/@runewake2" rel="nofollow">https://hackyderm.io/@runewake2</a>
+* On Mastodon: <a rel="me" href="https://hachyderm.io/@runewake2">https://hachyderm.io/@runewake2</a>
 * [YouTube channel](https://www.youtube.com/worldofzerodevelopment)
 * [Twitch streams](https://twitch.tv/worldofzerodev)
 * [The World of Zero Website](http://worldofzero.com)
